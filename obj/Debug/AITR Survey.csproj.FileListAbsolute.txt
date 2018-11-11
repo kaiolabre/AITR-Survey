@@ -1,0 +1,132 @@
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\ApplicationInsights.config
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\roslyn\csc.exe
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\roslyn\System.Collections.Immutable.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\roslyn\System.Reflection.Metadata.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\roslyn\vbc.exe
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\roslyn\VBCSCompiler.exe
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\roslyn\VBCSCompiler.exe.config
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\AITR Survey.dll.config
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\AITR Survey.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\AITR Survey.pdb
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\Microsoft.AI.Agent.Intercept.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\Microsoft.AI.DependencyCollector.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\Microsoft.AI.Web.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\Microsoft.AI.WindowsServer.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\Microsoft.ApplicationInsights.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\Microsoft.AI.DependencyCollector.xml
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\Microsoft.AI.Web.xml
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\Microsoft.AI.WindowsServer.xml
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\Microsoft.ApplicationInsights.xml
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\obj\Debug\AITR Survey.csprojResolveAssemblyReference.cache
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\obj\Debug\AITR Survey.dll
+d:\users\5704\documents\visual studio 2015\Projects\AITR Survey\AITR Survey\obj\Debug\AITR Survey.pdb
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\ApplicationInsights.config
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\roslyn\csc.exe
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\roslyn\System.Collections.Immutable.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\roslyn\System.Reflection.Metadata.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\roslyn\vbc.exe
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\roslyn\VBCSCompiler.exe
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\roslyn\VBCSCompiler.exe.config
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\AITR Survey.dll.config
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\AITR Survey.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\AITR Survey.pdb
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.Agent.Intercept.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.DependencyCollector.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.Web.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.WindowsServer.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\Microsoft.ApplicationInsights.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.DependencyCollector.xml
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.Web.xml
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.WindowsServer.xml
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\Microsoft.ApplicationInsights.xml
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\obj\Debug\AITR Survey.csprojResolveAssemblyReference.cache
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\obj\Debug\AITR Survey.dll
+d:\Users\5704\Desktop\AITR Survey\AITR Survey\obj\Debug\AITR Survey.pdb
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\ApplicationInsights.config
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\roslyn\csc.exe
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\roslyn\vbc.exe
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\roslyn\VBCSCompiler.exe
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\AITR Survey.dll.config
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\AITR Survey.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\AITR Survey.pdb
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\Microsoft.AI.Web.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\Microsoft.ApplicationInsights.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\Microsoft.AI.Web.xml
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\Microsoft.ApplicationInsights.xml
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\obj\Debug\AITR Survey.csprojResolveAssemblyReference.cache
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\obj\Debug\AITR Survey.dll
+D:\Users\5704\Downloads\AITR Survey\AITR Survey\obj\Debug\AITR Survey.pdb
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\obj\Debug\AITR Survey.csprojResolveAssemblyReference.cache
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\obj\Debug\AITR Survey.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\obj\Debug\AITR Survey.pdb
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\ApplicationInsights.config
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\roslyn\csc.exe
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\roslyn\vbc.exe
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\AITR Survey.dll.config
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\AITR Survey.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\AITR Survey.pdb
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.Web.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.Web.xml
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ramos\Desktop\AITR Survey\AITR Survey\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

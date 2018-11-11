@@ -1,0 +1,164 @@
+﻿body {
+    margin:0;
+    background-color:white;
+    letter-spacing:3px;
+}
+
+::placeholder {
+    color: white;
+    opacity: 1; /* Firefox */
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:20px 40px;
+    background-color:#333333;
+    
+}
+header img {
+    max-width:100px;
+    max-height:50px;
+}
+.header-right img{
+    max-width:20px;
+    max-height:20px;
+    margin-right:5px;
+}
+.header-right{
+    margin-top:15px;
+}
+header div {
+    display: flex;
+    flex-direction: row;
+}
+
+a{
+    text-decoration: none;
+}
+header a{
+    color:white;
+}
+header a:hover{
+    text-decoration:underline;
+}
+
+
+
+
+main {
+    background-color:#047879;
+    color:white;
+    padding:50px 50px 100px 50px;
+    margin:5px 0px;
+
+}
+.centralise{
+    max-width:960px;
+    margin:auto;
+}
+main h1{
+    font-size:100px;
+    margin-top:0px;
+}
+main div.main-content{
+    border-left: 1px solid white;
+    padding: 10px 20px;
+    margin:100px 0px 100px 100px;
+}
+main a{
+    color:#00A8AA;
+}
+.survey-link {
+    position: absolute;
+    right: 100px;
+    width: 200px;
+    padding: 10px;
+    background-color:white;
+    text-align:center;
+    border-radius:10px;
+    box-shadow: 5px 4px 20px #333333;
+    font-size:17px;
+
+}
+.survey-link:hover{
+   opacity:0.9;
+   box-shadow: 5px 4px 30px #000;
+}
+
+.register-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+
+.form-label{
+    width:250px;
+    float:left;
+}
+#loginForm .form-label{
+    width: 100px;
+}
+.form-textbox{
+    background-color:#047879;
+    color:white;
+    border:1px solid white;
+    padding:2px;
+    width:450px;
+}
+.validator{
+    letter-spacing:0px;
+    margin-left:250px;
+}
+
+/*
+    ################## REGISTER PAGE BUTTONS ###############
+*/
+.buttons {
+    display: flex;
+    flex-direction: row;
+    float: right;
+}
+.registerButton{
+    text-align:center;
+    border-radius:10px;
+    box-shadow: 5px 4px 20px #333333;
+    padding:5px 20px;
+    margin-left:15px;
+}
+.anonymousButton:hover{
+    opacity:0.8;
+} .registerButton:hover{
+    box-shadow:5px 4px 20px #00A8AA;
+}
+
+/*
+    ################### QUESTION PAGE ######
+*/
+
+
+
+
+
+/*
+    ######################### FOOTER ###############
+*/
+footer{
+    padding:20px;
+    background-color:#333333;
+    text-align:center;
+   
+}
+footer a{
+    opacity:0.7;
+    color:white;
+}
+footer a:hover{
+    text-decoration:underline;
+    opacity:1;
+}
+footer p {
+    color:#767676;
+    margin: 10px auto;
+}
